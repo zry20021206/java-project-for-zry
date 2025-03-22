@@ -1,0 +1,148 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "javaStream.Demo",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "javaAPI.Demo",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "javaAPI.Test",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Demo(1)",
+            "request": "launch",
+            "mainClass": "javaAlgorithm.Demo",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Demo(2)",
+            "request": "launch",
+            "mainClass": "javaCollections.Demo",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Demo(3)",
+            "request": "launch",
+            "mainClass": "javaComprehensive.Demo",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Demo(4)",
+            "request": "launch",
+            "mainClass": "javaCrawler.Demo",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Demo(5)",
+            "request": "launch",
+            "mainClass": "javaEvent.Demo",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Demo(6)",
+            "request": "launch",
+            "mainClass": "javaExtend.Demo",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "exercise1",
+            "request": "launch",
+            "mainClass": "javaLeetcode.exercise1",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "exercise2",
+            "request": "launch",
+            "mainClass": "javaLeetcode.exercise2",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "exercise3",
+            "request": "launch",
+            "mainClass": "javaLeetcode.exercise3",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Demo(7)",
+            "request": "launch",
+            "mainClass": "javaMath.Demo",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "javaObject.Test",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "javaProject.App",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "StudentMain",
+            "request": "launch",
+            "mainClass": "javaProject.StudentMain",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "javaProject1.App",
+            "projectName": "java-node-1_6e1174a8",
+            "vmArgs": "-Dfile.encoding=UTF-8"
+        },
+        {
+            "type": "java",
+            "name": "App(2)",
+            "request": "launch",
+            "mainClass": "javaPuzzle.App",
+            "projectName": "java-node-1_6e1174a8"
+        },
+        {
+            "type": "java",
+            "name": "Demo(8)",
+            "request": "launch",
+            "mainClass": "javaRegular.Demo",
+            "projectName": "java-node-1_6e1174a8"
+        }
+    ]
+}
